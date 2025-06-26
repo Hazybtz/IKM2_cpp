@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/Hazybtz/IKM2_cpp.git
-cd IKM_cpp
+cd IKM2_cpp
 ```
 
 2. Скомпилируйте программу:
@@ -55,7 +55,7 @@ IKM2_cpp/
 ├── BallChain.h      # Заголовочный файл с классом BallChain
 ├── BallChain.cpp    # Реализация методов BallChain
 ├── main.cpp         # Основная логика и интерфейс
-├── BallGame.exe.    # Скомпилированная программа в .exe
+├── BallGame.exe     # Скомпилированная программа в .exe
 └── README.md        # Этот файл
 ```
 
